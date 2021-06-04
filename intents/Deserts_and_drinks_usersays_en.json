@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c2167b2f-6903-4a8f-98b4-27e7f1503e3d",
+    "data": [
+      {
+        "text": "deserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adf0a4d1-0df7-4300-808e-a1cfbbc1da5f",
+    "data": [
+      {
+        "text": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dbc19c4-2375-498b-b8dc-527cf5d615c7",
+    "data": [
+      {
+        "text": "deserts and drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c2eaf5c-85a9-4567-9d68-8d0e4993027c",
+    "data": [
+      {
+        "text": "deserts, drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
